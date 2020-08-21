@@ -9,14 +9,6 @@ location: "São Carlos, Brazil"
 ---
 
 Teaching assistant for (around 45) undergraduate students enrolled on the Modern Control Systems course (SEM0538) at São Carlos School of Engineering (USP).
-Main activities include: review course bibliography and material; guide students during the laboratory practices; prepare, record and upload videos to YouTube as supporting (mostly solving exercises step-by-step).
+Main activities include: review course bibliography and material; guide students during the laboratory practices; prepare, record and upload videos to YouTube as supporting material (mostly solving exercises and performing simulations step-by-step).
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Course duration: 90 hours (4h per week)
