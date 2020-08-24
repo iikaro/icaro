@@ -11,30 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechatronic Engineering, University of São Paulo, 2018
+* M.S. in Mechatronics and Dynamic Systems, Rehabilitation Robotics, University of São Paulo, 2021 (expected)
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2017 - Mar 2018: System Integration of Control System Components Intern
+  * Rolls-Royce plc. Deutschland
+  * Duties included: project and manufacture of main and supporting test items during test campaign to certificate aerospace engines, according to DO160G standard; writing and reviewing of technical reports describing test hardware; data analysis with the aid of Python and Excel. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* May 2017 - Feb 2019: Mechanical Engineering Intern
+  * Cory Food Industry
+  * Duties included: planning, controlling and supervising of maintenance activities; familiarization with Total Productive Maintenance (TPM) and Total Quality Management (TQM) principles; predictive maintenance analysis with the aid of Infrared Thermography (IRT); writing of supporting documentation regarding maintenance procedures.
+
+Academic experience
+======
+* 2020/1: Teaching Assistant
+  * São Carlos School of Engineering, University of São Paulo
+  * Duties included: review course bibliography and material; guide students during the laboratory practices; organize material and exercises for students during 2-hours weekly meetings.
+  * Supervisor: Prof. Dr. A. A. G. Siqueira
+
+* 2019/2: Teaching Assistant
+  * São Carlos School of Engineering, University of São Paulo
+  * Duties included: review course bibliography and material; guide students during the laboratory practices; prepare, record and upload videos to YouTube as supporting material (mostly solving exercises and performing simulations step-by-step).
+  * Supervisor: Prof. Dr. A. A. G. Siqueira
+
+Exchange Program
+======
+* Mar 2017 - Mar 2018
+  * Hochschule für Technik und Wirtschaft (HTW) Berlin
+  * B.S. in Electrical Engineering (Elektrotechnik)
+  * Courses and activities: Electronics; Advanced Control; Engineering Project Management; Technical Project and Scientific Research, besides a specific non-technical course about European Union. Regarding the technical project course, my group's developed a prototype in partnership with an NGO, concerning the real water management problems in the African city of Douala.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * German (ongoing B2)
+  * Dutch (ongoing A1)
+  * English (Fluent)
+  * Portuguese (Native)
+* Programming languages
+  * C/C++/C# (Unity)
+  * Python (Jupyter)
+  * MATLAB
+  * CSS, HTML
+* Domain of Adobe Creative Suite software (Photoshop, Illustrator, InDesign)
+* Domain of Microsoft Office software (Word, Excel, PowerPoint, Visio, Project)
+
+Certifications & Certificates
+======
+* To be included
 
 Publications
 ======
@@ -56,4 +82,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Current Secretary of the IEEE Robotics and Automation Society (RAS) Student Chapter of São Carlos School of Engineering
