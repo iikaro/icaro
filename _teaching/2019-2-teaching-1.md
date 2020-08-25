@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "2019/2 Classical Control Theory Teaching Assistant"
 collection: teaching
-type: "Classical Control Systems Undergraduate Course"
+type: "Classical Control Theory Undergraduate Course"
 permalink: /teaching/2019-2-teaching-1
 venue: "University of São Paulo, São Carlos School of Engineering, Mechanical Engineering Department"
 date: 2019-08-01

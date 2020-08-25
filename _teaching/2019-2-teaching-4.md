@@ -1,5 +1,5 @@
 ---
-title: "Teacher"
+title: ""Volunteer German Teacher""
 collection: teaching
 type: "Introduction to German Language and Culture"
 permalink: /teaching/2020-1-teaching-4

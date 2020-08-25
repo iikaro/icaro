@@ -1,7 +1,7 @@
 ---
 title: "Motion Capture of a Lower Limbs Exoskeleton For Virtual Reality Application with a Treadmill"
 collection: publications
-permalink: /publication/2019-10-01-paper-title-number-1
+permalink: /publication/2019-COBEM-MotionCapture-1
 excerpt: 'This work describes the development of a virtual reality application, in which the legs movement of a person wearing a lower limbs robotic exoskeleton can be tracked and reproduced virtually, while the person walks on a treadmill.'
 date: 2019-01-10
 venue: 'Procceedings of the 24th ABCM International Congress of Mechanical Engineering'

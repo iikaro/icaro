@@ -1,7 +1,7 @@
 ---
 title: "Lower Limbs Embodiment through CCD Algorithm for Physical Rehabilitation With Virtual Reality (Incorporação de membros inferiores através do algoritmoccd para prática de terapia física com realidade virtual)."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2019-SiPGEM-Embodiment-2
 excerpt: 'This paper shows the results of an inverse kinematics algorithm based on Cyclic Coordinate Descent (CCD) as a means of providing a more intense feeling of presence inside virtual reality for lower limbs rehabilitation purposes.'
 date: 2019-10-01
 venue: 'IV Mechanical Engineering Graduate Research Symposium from EESC-USP'

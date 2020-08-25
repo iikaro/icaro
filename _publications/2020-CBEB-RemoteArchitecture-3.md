@@ -1,7 +1,7 @@
 ---
 title: "Remote Control Architecture for Virtual Reality Application for Ankle Therapy"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-CBEB-RemoteArchitecture-3
 excerpt: 'This paper introduces briefly a robotic device for ankle rehabilitation and the control scheme, shows the development of a virtual reality racing game and introduces a third element, the physiotherapist computer, which can change remotely the robot resistance, thus increasing the game difficulty.'
 date: 2015-10-01
 venue: 'Journal 1'

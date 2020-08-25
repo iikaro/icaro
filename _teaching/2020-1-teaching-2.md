@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "2020/1 Modern Control Theory Teaching Assistant"
 collection: teaching
 type: "Modern Control Systems Undergraduate Course"
 permalink: /teaching/2020-1-teaching-2
