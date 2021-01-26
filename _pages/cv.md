@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mechatronic Engineering, University of São Paulo, 2018
-* M.S. in Mechatronics and Dynamic Systems, Rehabilitation Robotics, University of São Paulo, 2021 (expected)
+* M.S. in Mechatronics and Dynamics, Rehabilitation Robotics, University of São Paulo, 2021 (expected)
 
 Professional experience
 ======
@@ -20,7 +20,7 @@ Professional experience
   * Rolls-Royce plc. Deutschland
   * Duties included: project and manufacture of main and supporting test items during test campaign to certificate aerospace engines, according to DO160G standard; writing and reviewing of technical reports describing test hardware; data analysis with the aid of Python and Excel. 
 
-* May 2017 - Feb 2019: Mechanical Engineering Intern
+* May 2018 - Feb 2019: Mechanical Engineering Intern
   * Cory Food Industry
   * Duties included: planning, controlling and supervising of maintenance activities; familiarization with Total Productive Maintenance (TPM) and Total Quality Management (TQM) principles; predictive maintenance analysis with the aid of Infrared Thermography (IRT); writing of supporting documentation regarding maintenance procedures.
 
@@ -55,12 +55,21 @@ Skills
   * Python (Jupyter)
   * MATLAB
   * CSS, HTML
+  * LaTeX
 * Domain of Adobe Creative Suite software (Photoshop, Illustrator, InDesign)
 * Domain of Microsoft Office software (Word, Excel, PowerPoint, Visio, Project)
 
 Certifications & Certificates
 ======
-* To be included
+* Coursera: Version Control with Git, Atlassian, 13h
+* Coursera: Understanding Research Methods, University of London, 6h
+* Coursera: Advanced Writing, University of California Irvine, 20h
+* Coursera: Oil & Gas Industry Operations and Markets, Duke University, 8h
+* Coursera: Crash Course on Python, Google, 32h
+* Coursera: Introduction to XR: VR, AR, and MR Foundations, Unity Technologies, 20h
+* Coursera: Handheld AR App Development with Unity, Unity Technologies, 14h
+* Coursera: Unity Certified 3D Artist: Asset Creation and Management, Unity Technologies, 7h
+* Coursera: Unity Certified 3D Artist: Lighting, Reflection, and Post Processing Effects, Unity Technologies, 9h
 
 Publications
 ======
@@ -76,4 +85,5 @@ Teaching
   
 Service and leadership
 ======
-* Current Secretary of the IEEE Robotics and Automation Society (RAS) Student Chapter of São Carlos School of Engineering
+* Nov 2020 - today: Chair of the IEEE Robotics and Automation Society (RAS) Student Chapter of São Carlos School of Engineering
+* Oct 2019 - Oct 2020: Secretary of the IEEE Robotics and Automation Society (RAS) Student Chapter of São Carlos School of Engineering
