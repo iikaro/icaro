@@ -29,12 +29,12 @@ Academic experience
 * 2020/1: Teaching Assistant
   * São Carlos School of Engineering, University of São Paulo
   * Duties included: review course bibliography and material; guide students during the laboratory practices; organize material and exercises for students during 2-hours weekly meetings.
-  * Supervisor: Prof. Dr. A. A. G. Siqueira
+  * Advisor: Prof. Dr. A. A. G. Siqueira
 
 * 2019/2: Teaching Assistant
   * São Carlos School of Engineering, University of São Paulo
   * Duties included: review course bibliography and material; guide students during the laboratory practices; prepare, record and upload videos to YouTube as supporting material (mostly solving exercises and performing simulations step-by-step).
-  * Supervisor: Prof. Dr. A. A. G. Siqueira
+  * Advisor: Prof. Dr. A. A. G. Siqueira
 
 Exchange Program
 ======
